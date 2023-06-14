@@ -16,15 +16,15 @@ p {
 	margin:20px;
 	width: 50%;
 }
-h1, h2
-
+h1, h2 { color: white;
+}
 	@font-face {
 		font-family: "PaolaOltran";
 		src:url("PaolaOltran.ttf");
-		color: white;  
+	
 	
 }
-
+	
 span {color: rgb(255,0,255);}
 .pozadina{
 	background-image: url("slika4.jpg");
