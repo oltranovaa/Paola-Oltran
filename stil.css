@@ -21,7 +21,7 @@ h1, h2
 	@font-face {
 		font-family: "PaolaOltran";
 		src:url("PaolaOltran.ttf");
-		color: antiquewhite
+		color: white;  
 	
 }
 
